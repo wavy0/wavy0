@@ -1,13 +1,3 @@
 ### Hi there 👋
 
-I am a noob developer, main languages:
-nodejs
-
-main project(s):
-
-Sirius(by azlxy)
-
-i barely use these languages:
-
-python
-c#
+[![Stats](https://github-readme-stats.codestackr.vercel.app/api?username=teenari&show_icons=true&theme=synthwave)]()
